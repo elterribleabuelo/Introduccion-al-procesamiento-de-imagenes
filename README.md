@@ -1,1 +1,1 @@
-# Introduccion-al-procesamiento-de-imagenes-SPS-UNI
+# Introduccion-al-procesamiento-de-imagenes
