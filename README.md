@@ -8,4 +8,4 @@ Este repositorio contiene ejemplos básicos sobre el procesmiento de imágenes e
 - Variación de la resolución espacial
 - Operación de convolución
 - Filtros lineales y no lineales
-- Uso de haar cascade classifier y frontal cascade classifier
+- Uso de haar y frontal cascade classifier
