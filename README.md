@@ -1,4 +1,4 @@
-# Introduccion-al-procesamiento-de-imagenes
+# Introducción al procesamiento-de imágenes
 
 Este repositorio contiene ejemplos básicos sobre el procesmiento de imágenes en Python3, con los siguiente puntos:
 - Manipulación de imágenes
